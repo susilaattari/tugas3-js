@@ -2,5 +2,9 @@ function hitungNilai(a,b,c){
     const nilai = a+b+c;
     return nilai
 }
-const tampung = hitungNilai(2,4,2);
+
+let a =2
+let b =5
+let c =5
+const tampung = hitungNilai(a,b,c);
 console.log(tampung);
